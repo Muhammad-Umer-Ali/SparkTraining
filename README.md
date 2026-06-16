@@ -10,7 +10,7 @@
 
 ### Course website with videos and slides: https://sparktraining.web.cern.ch/
 
-## Contents
+## Content
 
 - [Notebooks with tutorials and exercises](notebooks)
 - [Data used by the notebooks](data)
